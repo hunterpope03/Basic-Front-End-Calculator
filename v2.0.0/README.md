@@ -3,7 +3,7 @@
 #### Technologies & Frameworks: HTML, CSS, JS, jQuery
 ## How to Use
 1. Visit this link: [**Basic Front-End Calculator v2.0.0**](https://hunterpope03.github.io/basic-front-end-calculator/v2.0.0/)
-## Description
+## Revisions
 In the revised version of my showcase project Basic Front-End Calculator, I added only one new feature, which is keyboard support for calculator input. My primary focus on this revision was better conforming to professional coding standards and conventions, including: 
 * Naming Conventions
 * Semantic HTML
